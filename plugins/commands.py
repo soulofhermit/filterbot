@@ -41,7 +41,7 @@ async def start(client, message):
             InlineKeyboardButton("🔥 Finally You Found Me 🔥", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🧐", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🤖", url="https://t.me/Apple_Movie_Updates")
+            InlineKeyboardButton("🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🤖", url="https://t.me/Apple_Movie_Developer")
             ],[      
             InlineKeyboardButton("🙋 𝙷𝙴𝙻𝙿  💪", callback_data="help"),
             InlineKeyboardButton("❣ 𝙰𝙱𝙾𝚄𝚃 ❣", callback_data="about")
@@ -88,13 +88,13 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
+            InlineKeyboardButton("🔥 Finally You Found Me 🔥", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🧐", switch_inline_query_current_chat=''), 
+            InlineKeyboardButton("🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🤖", url="https://t.me/Apple_Movie_Developer")
             ],[      
-            InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
-            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
+            InlineKeyboardButton("🙋 𝙷𝙴𝙻𝙿  💪", callback_data="help"),
+            InlineKeyboardButton("❣ 𝙰𝙱𝙾𝚄𝚃 ❣", callback_data="about")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
