@@ -1,20 +1,20 @@
 class script(object):   
-    HELP_TXT = """𝙷𝙴𝚈 {}\nPoda Venna."""
+    HELP_TXT = """Hi {}\nMy Help Command List."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/ArtfApple>Only Apple</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : Books
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : Tamil
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : AppleDB
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : Not Available
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: APPLE BOT V.3.1.1"""
+✯ Creator : <a href=https://t.me/Apple_Movie_Developer>APPLE MOVIE DEVELOPER</a>
+✯ Library : TO STUDY
+✯ Language : THAIMOZHI ALWAYS MY TAMIZH
+✯ DataBase : APPLE-DB
+✯ BotServer : APPLE BOT ALLOVER WORLD
+✯ BuildVersion: APPLE BOT V.7.1"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/sivaclonebot/qqstarter>OnlyApple-𝐁𝐎𝐓</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 👉 :<a href=https://github.com/sivaclonebot/qqstarter>OnlyApple-𝐁𝐎𝐓</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/ArtfApple>APPLE</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/ArtfApple>MANGO</a>"""
+- 𝙳𝚎𝚟 1<a href=https://t.me/Apple_Movie_Developer>APPLE MOVIE DEVELOPER</a>
+- 𝙳𝚎𝚟 2<a href=https://t.me/Apple_Movie_Updates>APPLE MOVIE UPDATES</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -28,9 +28,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/ArtfApple https://t.me/ArtfApple</code>
+<code>/batch https://t.me/Apple_Movie_Developer https://t.me/Apple_Movie_Developer</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/ArtfApple><b>Only Apple Dot</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Apple_Movie_Developer><b>APPLE MOVIE DEVELOPER</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -76,7 +76,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/ArtfApple>Only Apple</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Apple_Movie_Developer>APPLE MOVIE DEVELOPER</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -106,11 +106,11 @@ these are the extra features of this bot
     ADMIN_TXT = """<b>ɴᴏᴛᴇ:</b>
 <code>Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs</code>
 
-🔋 <u><b>Basic Command</b></u>
+🥸 <u><b>Basic Command</b></u>
 • /logs - <code>ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ</code>
 • /stats - <code>ᴛᴏ ɢᴇᴛ ꜱᴛᴀᴛᴜꜱ ᴏꜰ ꜰɪʟᴇꜱ ɪɴ ᴅʙ.</code>
 
-🗂️ <u><b>Database & Server Command</b></u>
+🤓 <u><b>Database & Server Command</b></u>
 • /status - <code>ᴛᴏ ɢᴇᴛ sᴛᴀᴛᴜs ᴏғ sᴇʀᴠᴇʀ</code>
 • /stats - <code>ᴛᴏ ɢᴇᴛ ᴅᴀᴛᴀᴛʙᴀꜱᴇ ꜱᴛᴀᴛᴜꜱ</code>
 • /delete - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴇ ꜰʀᴏᴍ ᴅʙ.</code>
@@ -122,7 +122,7 @@ these are the extra features of this bot
     US_CHAT_TXT = """<b>ɴᴏᴛᴇ:</b>
 <code>Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs</code>
 
-📯 <u><b>Chat & User</b></u>
+❣ <u><b>Chat & User</b></u>
 • /broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴀ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜꜱᴇʀꜱ</code>
 • /group_broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ɢʀᴏᴜᴘs</code>
 • /leave  - <code>ᴛᴏ ʟᴇᴀᴠᴇ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ.</code>
@@ -188,7 +188,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/mr_MKN>Mr.MKN TG</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Apple_Movie_Developer>APPLE MOVIE DEVELOPER</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
@@ -216,7 +216,7 @@ By @{} """
 
 <b>𝙰𝙻𝙻 𝚃𝙷𝙴 𝙿𝙸𝙽 𝚁𝙴𝙿𝙻𝙰𝚃𝙴𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙲𝙰𝙽 𝙱𝙴 𝙵𝙾𝚄𝙽𝙳 𝙷𝙴𝚁𝙴::</b>
 
-<b>📌𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴📌</b>
+<b>🔥𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴🔥</b>
 
 ◉ /pin :- 𝚃𝙾 𝙿𝙸𝙽 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝙽 𝚈𝙾𝚄𝚁 𝙲𝙷𝙰𝚃𝚂
 ◉ /unpin :- 𝚃𝙾 𝚄𝙽𝙿𝙸𝙽 𝚃𝙷𝙴 𝙲𝚄𝚁𝚁𝙴𝙴𝙽𝚃 𝙿𝙸𝙽𝙽𝙴𝙳 𝙼𝙴𝚂𝙰𝙰𝙶𝙴"""
@@ -268,7 +268,7 @@ Do as you wish with telegra.ph module!
 
 </b>USAGE:</b>
 
-🤧 /telegraph - Send me this command reply with Picture or Vide Under (5MB) 
+😎 /telegraph - Send me this command reply with Picture or Vide Under (5MB) 
 
 <b>NOTE:</b>
 
@@ -326,7 +326,7 @@ Delete A Lot Of Messages From Groups!
 
     YTDL = """<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴</b>
 
-🍁 𝘜𝘴𝘢𝘨𝘦
+🧐 𝘜𝘴𝘢𝘨𝘦
 𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘖𝘳 𝘈𝘶𝘥𝘪𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
 
 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
