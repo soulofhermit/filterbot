@@ -3,10 +3,10 @@ class script(object):
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ Creator : <a href=https://t.me/Apple_Movie_Developer>APPLE MOVIE DEVELOPER</a>
-✯ Library : TO STUDY
-✯ Language : THAIMOZHI ALWAYS MY TAMIZH
+✯ Library : ONLY TO STUDY
+✯ Language : THAIMOZHI TAMIL
 ✯ DataBase : APPLE-DB
-✯ BotServer : APPLE BOT ALLOVER WORLD
+✯ BotServer : ANYWHERE WORLD
 ✯ BuildVersion: APPLE BOT V.7.1"""
 
     SOURCE_TXT = """<b>NOTE:</b>
