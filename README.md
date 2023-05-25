@@ -1,0 +1,23 @@
+### Variables
+
+* `APP_ID`
+
+* `API_HASH` 
+
+* `BOT_TOKEN`
+
+* `DATABASE_NAME`
+
+* `DATABASE_URI`
+
+* `WEBHOOK`
+
+* `LOG_CHANNEL`
+
+* `AUTH_CHANNEL`
+
+* `PICS`
+
+* `SHORT_URL`
+
+* `SHORT_API`
