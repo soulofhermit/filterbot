@@ -48,7 +48,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 #maximum search result buttos count in number#
 MAX_RIST_BTNS = int(environ.get('MAX_RIST_BTNS', "10"))
-START_MESSAGE = environ.get('START_MESSAGE', '👋 𝙷𝚎𝚕𝚕𝚘 {user}\n\n𝙼𝚢𝚜𝚎𝚕𝚏 {bot},\n\n𝚃𝚛𝚞𝚜𝚝 𝚖𝚎 ! 𝙸 𝚌𝚊𝚗𝚗𝚘𝚝 𝚎𝚟𝚎𝚗 𝚒𝚖𝚊𝚐𝚒𝚗𝚎 𝚑𝚘𝚠 𝚜𝚞𝚙𝚎𝚛-𝚏𝚊𝚜𝚝 𝙸 𝚌𝚊𝚗 𝚍𝚛𝚒𝚟𝚎 𝚢𝚘𝚞𝚛 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 \𝚗\𝚗𝙰𝚛𝚎 𝚢𝚘𝚞 𝚛𝚎𝚊𝚍𝚢 𝚏𝚘𝚛 𝙻𝚘𝚗𝚐 𝙳𝚛𝚒𝚟𝚎 𝙱𝚊𝚋𝚢...🤪')
+START_MESSAGE = environ.get('START_MESSAGE', '👋 𝙷𝚎𝚕𝚕𝚘 {user}\n\n𝙼𝚢𝚜𝚎𝚕𝚏 {bot},\n\n𝚃𝚛𝚞𝚜𝚝 𝚖𝚎 !  𝙸 𝚌𝚊𝚗𝚗𝚘𝚝 𝚎𝚟𝚎𝚗 𝚒𝚖𝚊𝚐𝚒𝚗𝚎 𝚑𝚘𝚠 𝚜𝚞𝚙𝚎𝚛-𝚏𝚊𝚜𝚝 𝙸 𝚌𝚊𝚗 𝚍𝚛𝚒𝚟𝚎 𝚢𝚘𝚞𝚛 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 \𝚗\𝚗𝙰𝚛𝚎 𝚢𝚘𝚞 𝚛𝚎𝚊𝚍𝚢 𝚏𝚘𝚛 𝙻𝚘𝚗𝚐 𝙳𝚛𝚒𝚟𝚎 𝙱𝚊𝚋𝚢...🤪')
 BUTTON_LOCK_TEXT = environ.get("BUTTON_LOCK_TEXT", "⚠️ 𝙷𝚎𝚢 {query}! 𝚃𝚑𝚊𝚝'𝚜 𝚗𝚘𝚝 𝚏𝚘𝚛 𝚢𝚘𝚞. 𝙿𝚕𝚎𝚊𝚜𝚎 𝚛𝚎𝚚𝚞𝚎𝚜𝚝 𝚢𝚘𝚞𝚛 𝚘𝚠𝚗.")
 FORCE_SUB_TEXT = environ.get('FORCE_SUB_TEXT', '𝙿𝚕𝚎𝚊𝚜𝚎 𝚓𝚘𝚒𝚗 𝚖𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚜 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 𝚒𝚗 𝚘𝚛𝚍𝚎𝚛 𝚝𝚘 𝚞𝚜𝚎 𝚖𝚎.')
 RemoveBG_API = environ.get("RemoveBG_API", "")
