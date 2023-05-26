@@ -2,19 +2,19 @@ class script(object):
     HELP_TXT = """Hi {}\nMy Help Command List."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ Creator : <a href=https://t.me/Apple_Movie_Developer>APPLE MOVIE DEVELOPER</a>
+✯ Creator : <a href=https://t.me/FilmsofFortune>Films of Fortune</a>
 ✯ Library : ONLY TO STUDY
 ✯ Language : THAIMOZHI TAMIL
 ✯ DataBase : APPLE-DB
 ✯ BotServer : ANYWHERE WORLD
-✯ BuildVersion: APPLE BOT V.7.1"""
+✯ BuildVersion: Films of Fortune BOT V.7.7.7"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 👉 :<a href=https://github.com/sivaclonebot/qqstarter>OnlyApple-𝐁𝐎𝐓</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 👉 :<a href=https://github.com/soulofhermit/filterbot/>Films of Fortune BOT</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/Apple_Movie_Developer>APPLE MOVIE DEVELOPER</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/Apple_Movie_Updates>APPLE MOVIE UPDATES</a>"""
+- 𝙳𝚎𝚟 1<a href=https://t.me/FilmsofFortune>Films of Fortune</a>
+- 𝙳𝚎𝚟 2<a href=@https://t.me/FilmsofFortune>Films of Fortune</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -28,9 +28,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/Apple_Movie_Developer https://t.me/Apple_Movie_Developer</code>
+<code>/batch https://t.me/FilmsofFortune https://t.me/FilmsofFortune</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Apple_Movie_Developer><b>APPLE MOVIE DEVELOPER</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/FilmsofFortune><b>Films of Fortune</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -76,7 +76,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Apple_Movie_Developer>APPLE MOVIE DEVELOPER</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/FilmsofFortune>Films of Fortune</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
