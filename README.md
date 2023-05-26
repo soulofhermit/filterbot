@@ -1,6 +1,6 @@
 ### Variables
 
-* `APP_ID`
+* `API_ID`
 
 * `API_HASH` 
 
