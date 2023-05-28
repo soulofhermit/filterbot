@@ -10,6 +10,8 @@
 
 * `DATABASE_URI`
 
+* `ADMINS`
+
 * `WEBHOOK`
 
 * `LOG_CHANNEL`
